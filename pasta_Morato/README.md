@@ -5,6 +5,6 @@ Satoshi Nakamoto
 
 satoshin@gmx.com
 
-www.bitcoin.org
+[https\\.bitcoin.org](https://bitcoin.org/en/)
 
 ![Manchete do Jornal The Times - Bloco Genesis Bitcoin](./img/Manchete_bloco_genesis.jpg)
